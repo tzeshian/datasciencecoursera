@@ -1,0 +1,25 @@
+{
+    "id": "2BB17089",
+    "path": "~/Downloads/Data Science/HelloWorld/HelloWorld.R",
+    "project_path": "HelloWorld.R",
+    "type": "r_source",
+    "hash": "2362092699",
+    "contents": "",
+    "dirty": false,
+    "created": 1601812805443.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "cursorPosition": "0,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601812827,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601812827,
+    "read_only": false,
+    "read_only_alternatives": []
+}
